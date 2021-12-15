@@ -7,11 +7,8 @@
 
 </p>
 
-- 🌱 I’m currently learning **everything.**
 
 - 👯 I’m looking to  **contribute in open source.**
-
-- 🤝 I’m looking for help with [Coding-Ninjas-events (Replicating)](https://github.com/satyamgupta1495/coding-ninjas-events)
 
 - 👨‍💻 All of my projects are available at [https://satyamgupta1495.github.io/My-Portfolio/](https://satyamgupta1495.github.io/My-Portfolio/)
 
