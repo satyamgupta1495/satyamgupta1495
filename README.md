@@ -52,9 +52,9 @@
 ## 🚀 GitHub Stats:
 
 <p align="left">    
- <img src="https://github-readme-stats.vercel.app/api?username=satyamgupta1495&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" width="420" />  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta1495&theme=gotham&hide_border=false" width="420" />
-  </p>
+ <img src="https://github-readme-stats.vercel.app/api?username=satyamgupta1495&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" width="400px" height="200" />  &nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta1495&theme=gotham&hide_border=false" width="420px"  height="200"  />
+</p>
  
 <!-- ![](https://github-readme-stats.vercel.app/api?username=satyamgupta1495&theme=gotham&hide_border=false&include_all_commits=false&count_private=false) -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta1495&theme=gotham&hide_border=false) -->
