@@ -59,11 +59,17 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=satyamgupta1495&theme=gotham&hide_border=false&include_all_commits=false&count_private=false) -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta1495&theme=gotham&hide_border=false) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgupta1495&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-    
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=satyamgupta1495&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"/>
+  <source media="(prefers-color-scheme: light)"/>
+  <img alt="github-snake" src="https://github.com/satyamgupta1495/satyamgupta1495/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 ### 🔊 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
