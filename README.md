@@ -3,7 +3,7 @@
 ``` 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" padding-right="10"> Hi, I am Satyam
 <p align="justify">As a self-taught developer and builder in full-stack web development, I am passionate about creating quality, interactive, and user-friendly applications with optimal solutions. With proficiency in the MERN stack and a deep love for Javascript, I have created various projects using frontend and backend tools. In addition, my passion for open-source has led me to contribute to various projects, always pushing myself to learn and grow as a developer. As an open-source enthusiast with a dedication to technology and a commitment to upskilling, I am always seeking out new challenges and learning opportunities to improve my craft. </p>
-<img src="https://user-images.githubusercontent.com/51158766/232219594-d329e080-e921-4613-a8f4-8c28856dd336.gif" align="right" width="300px" style="float: right; margin-right: 10px;">
+<img src="https://user-images.githubusercontent.com/51158766/232219594-d329e080-e921-4613-a8f4-8c28856dd336.gif" align="right" width="250px" style="float: right; margin-right: 10px;">
 <br>
 <p align="justify" >If you're looking for a self-motivated and passionate developer <br> who can bring your ideas to life with top-notch solutions, look no further than me.<br><br>🌱 I am currently learning DevOps.<br>🌍 I love to contribute to open source.<br>✌️ I'm open to opportunities.<br>🤝 If you want any collaboration feel free to mail me at satyamgupta1495@gmail.com </p>
 
