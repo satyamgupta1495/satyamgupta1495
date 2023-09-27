@@ -76,6 +76,7 @@
   <img alt="github-snake" src="https://github.com/satyamgupta1495/satyamgupta1495/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
+[![An image of @satyamgupta1495's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamgupta1495)](https://holopin.io/@satyamgupta1495)
 
 ### 🔊 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
