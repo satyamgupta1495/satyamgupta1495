@@ -57,34 +57,21 @@
 
 ## 🚀 GitHub Stats:
 
-<!--<p align="left">    
- <img src="https://github-readme-stats.vercel.app/api?username=satyamgupta1495&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" width="400px" height="200" />  &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta1495&theme=gotham&hide_border=false" width="420px"  height="200"  />
-</p> -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamgupta1495&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta1495&theme=gotham&hide_border=false" width="400" height="200" />
+<div align="start">
+    <img src="https://github-readme-stats.vercel.app/api?username=satyamgupta1495&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta1495&theme=gotham&hide_border=false" />
 </div>
 
- 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=satyamgupta1495&theme=gotham&hide_border=false&include_all_commits=false&count_private=false) -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta1495&theme=gotham&hide_border=false) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgupta1495&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=satyamgupta1495&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo and Language
+<div align="start" width="100%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=satyamgupta1495&limit=5&theme=gotham&combine_all_yearly_contributions=true" height="220px"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamgupta1495&theme=gotham&show_icons=true&hide_border=false&layout=compact" height="220px" />
+</div>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"/>
-  <source media="(prefers-color-scheme: light)"/>
-  <img alt="github-snake" src="https://github.com/satyamgupta1495/satyamgupta1495/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
+## 🐬Holopin
 [![An image of @satyamgupta1495's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satyamgupta1495)](https://holopin.io/@satyamgupta1495)
+
 
 ### 🔊 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
