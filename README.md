@@ -56,11 +56,9 @@
 
 
 ## 🚀 GitHub Stats:
-
-
-<div align="start">
-    <img src="https://github-readme-stats.vercel.app/api?username=satyamgupta1495&theme=gotham&show_icons=true&hide_border=false&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta1495&theme=gotham&hide_border=false" />
+<div align="start" width="100%">
+    <img src="https://github-readme-stats.vercel.app/api?username=satyamgupta1495&theme=gotham&show_icons=true&hide_border=false&count_private=true"  width="47%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgupta1495&theme=gotham&hide_border=false"  width="50%"/>
 </div>
 
 ## 🔝 Top Contributed Repo and Language
